@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/zsskar/library-management/tree/main/library-management/static/css/main.60cc3ba0.css",
+    "main.js": "/zsskar/library-management/tree/main/library-management/static/js/main.db5beea9.js",
+    "static/media/notification.svg?s3g3t9": "/zsskar/library-management/tree/main/library-management/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/zsskar/library-management/tree/main/library-management/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/zsskar/library-management/tree/main/library-management/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/zsskar/library-management/tree/main/library-management/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/zsskar/library-management/tree/main/library-management/index.html",
+    "main.60cc3ba0.css.map": "/zsskar/library-management/tree/main/library-management/static/css/main.60cc3ba0.css.map",
+    "main.db5beea9.js.map": "/zsskar/library-management/tree/main/library-management/static/js/main.db5beea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60cc3ba0.css",
+    "static/js/main.db5beea9.js"
+  ]
+}
